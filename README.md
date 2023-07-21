@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @civilizationcoder
+- 👋 Hi, I’m @civilizationcoder.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me? - mailto:ayseozcan7@gmail.com
